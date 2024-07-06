@@ -1,0 +1,2 @@
+1.git init from specified folder of Gitbash
+
